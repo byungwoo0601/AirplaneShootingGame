@@ -1,0 +1,1301 @@
+fileFormatVersion: 2
+guid: e135e5da736984c4c864d05374f19b61
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 480
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22340a5250b9871429bf65658a66ff2f
+      internalID: 1590810117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 486
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad81b14d55ade0a4a8eef93a47f7996b
+      internalID: -1686286423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_2
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 481
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2827a37f684df464da1ca7f22fd3e84b
+      internalID: 1596767167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_3
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 481
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5aff4f3ca7fc3e4383dec86044e5ce4
+      internalID: 711710881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_4
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 480
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51736a5b2904db947aedcc6ad29ae0ea
+      internalID: 1102290989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_5
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 484
+        width: 62
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0e6cc73f49c37d4b9f8f1173b5910f6
+      internalID: -123470983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_6
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 481
+        width: 62
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea810baf6eda3c42a584b240410897e
+      internalID: -44682427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_7
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 448
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dfbc5a0ae249244289c88ab2447fb4b
+      internalID: -1070907476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_8
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 448
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9f75fb16e992d440af2acf2acb93fc4
+      internalID: 2114897355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_9
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 448
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0e85efe4a0d61e42a8c32e7888220f5
+      internalID: -278769376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_10
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 448
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bb1be7be8092614da503d53fc7471a6
+      internalID: 946126988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 467
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27ee0dbcae63e0a4ab9ce40a200470cd
+      internalID: 1076818000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_12
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 454
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f9c6c7d1ad697e439a465a38240073d
+      internalID: -1128633150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_13
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 472
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ce4fecd3df4e34284fca8711845e23
+      internalID: -739612003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_14
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 467
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b401c16371fbb41932665ca4def544
+      internalID: -1842058097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_15
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 448
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3679f6063c8629343b73f192f6c23e42
+      internalID: 415838964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_16
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 448
+        width: 62
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f6f052af8833c84aa031079b0def217
+      internalID: 921277006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_17
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 448
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc6e5f4190e0f447b145c4dc246b636
+      internalID: 1645054151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1a3a1309481cf4bb3ce6d78ecc86b8
+      internalID: 1622411192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_19
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 467
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 131dc3b9ec3dd7c44bb8ecc0ffb00e88
+      internalID: -176982472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 454
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60835ca395675b5479bba5a5cf0fdc12
+      internalID: 904904432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 472
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad00e827cd7fe814e8df401c773f04dc
+      internalID: 1939000047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_22
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 467
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cd261d72ccd4b4980f1ca7b95533d9
+      internalID: -2017140000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_23
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 448
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d21e1b8b14325d45b907e340b77c001
+      internalID: 664300564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_24
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f340431f3ccfdb4f9f5e285e655891e
+      internalID: -1070502162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_25
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 448
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3afc541273ad41d499922caa7b9fd2e3
+      internalID: -1439421534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_26
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81598cfe4fc5b67459ff5b4133297b05
+      internalID: 1132738182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_27
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085751d0035977e4a9e9f7318f6e620d
+      internalID: 1256623770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_28
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 784069cac7da0ae45b7f5dd9df7b14c5
+      internalID: -127802997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_29
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 448
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f257c54f6b5f14383da13783e9027c
+      internalID: 507744559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 458
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10fd827d2b6797245817fb8f79455b8e
+      internalID: 271737129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_31
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 448
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dce58bce974d834985dd9addb05a843
+      internalID: 2105984081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_32
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 448
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 256fe29820e620744a7faf7a343935a9
+      internalID: 205486079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c84bbb693c91b4b4eac989c7ce1d004d
+      internalID: 2086022965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 64
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c26257a7bec77b545a704f5822fac73d
+      internalID: 718216276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee2155f3300d21e47909b7d15a845fc9
+      internalID: 1974269163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_36
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 429ea702749fc9542a6f2eaf882f8dea
+      internalID: 764039001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_37
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 320
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab6aaf677866e6c4f96f601964245259
+      internalID: -1344857648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_38
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 459e6b1adb838004c972eb9ad8365b5c
+      internalID: -93562008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_39
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286ee1e8dab76074e9ded761bfc99e1e
+      internalID: -164418902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_40
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6451ca005f62e449f1097393e71222
+      internalID: -1823681884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_41
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99bfe821fb94c5b4d9118c73aa1509d4
+      internalID: -645912503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_42
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30c21f90f5ca8d149bda2f219837b380
+      internalID: 2141791140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_43
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38b11662175be41469b1b360354b481b
+      internalID: -108598917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea0d80df47d5df499dff837633891d0
+      internalID: 563381458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_45
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6cc2264c4a619e47ba4239230bc62c2
+      internalID: 1039411847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_46
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 257
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d754d1738e68144cb4504aa9f4b5d3e
+      internalID: -2090785049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 926af4cb5880e4b449986c95ad23bca1
+      internalID: 1338125230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_48
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617a5d373a8c81e489570b9bef8a6ff2
+      internalID: 63358963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_49
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a5581b994514d4fb69290bf0888865
+      internalID: -448504032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_50
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 95
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c780f28b82af441a2c2dde2cfde644
+      internalID: -1947788039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 127
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc010bf6d0fe59542a3b8c109c813400
+      internalID: -311369779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_52
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 127
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ed890cbecfead479ddf179cf072fea
+      internalID: 1089911146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_47: 1338125230
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_41: -645912503
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_13: -739612003
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_34: 718216276
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_1: -1686286423
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_28: -127802997
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_16: 921277006
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_49: -448504032
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_17: 1645054151
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_20: 904904432
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_11: 1076818000
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_22: -2017140000
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_18: 1622411192
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_26: 1132738182
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_4: 1102290989
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_8: 2114897355
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_12: -1128633150
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_0: 1590810117
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_42: 2141791140
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_33: 2086022965
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_43: -108598917
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_7: -1070907476
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_51: -311369779
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_3: 711710881
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_15: 415838964
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_5: -123470983
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_32: 205486079
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_14: -1842058097
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_45: 1039411847
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_39: -164418902
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_27: 1256623770
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_23: 664300564
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_2: 1596767167
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_6: -44682427
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_44: 563381458
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_10: 946126988
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_25: -1439421534
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_50: -1947788039
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_52: 1089911146
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_48: 63358963
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_35: 1974269163
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_29: 507744559
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_31: 2105984081
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_21: 1939000047
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_9: -278769376
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_19: -176982472
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_38: -93562008
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_24: -1070502162
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_37: -1344857648
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_30: 271737129
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_46: -2090785049
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_36: 764039001
+      kisspng-magic-square-rpg-maker-majic-5b50bb0e15af14.0471949915320174220888_40: -1823681884
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
